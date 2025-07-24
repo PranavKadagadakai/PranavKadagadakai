@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm Pranav</h1>
-<h3 align="center">🚀 ISE Undergrad | 🧠 AIML & Cybersecurity Explorer | 💻 Full Stack Developer</h3>
+<h3 align="center">🚀 ISE Undergrad | 🧠 AI/ML & Cybersecurity Explorer | 💻 Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Learning+Relentlessly.;🚀Exploring+AI%2FML+%2B+Web+Security.;Building+for+Impact.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Building+secure+and+scalable+solutions.;💡 Exploring+AI%2FML%2C+Cybersecurity%2C+Automation.;Always+learning+and+leading.">
 </p>
 
 ---
@@ -10,10 +10,10 @@
 ### 🧠 About Me
 
 - 🎓 B.E. in Information Science and Engineering @ GIT Belagavi (2026)
-- 🌐 Interested in Web Development, Cybersecurity, Networking, and AI/ML
-- 🛠️ Projects range from multilingual health bots to student certification systems
-- 🔍 Currently exploring cloud tools and backend architecture
-- 👥 Leading teams and mentoring peers in Python and databases
+- 🌐 Skilled in Web Development, Automation, and AI/ML
+- 🔐 Passionate about Cybersecurity and scalable systems
+- 🧠 Focused on building secure, user-friendly applications
+- 👨‍🏫 Peer mentor in Python, Linux CLI, and Databases
 
 ---
 
@@ -59,23 +59,31 @@
 ### 🚀 Featured Projects
 
 🔹 **[Doctor-Patient Communication System (MediMate)](https://github.com/PranavKadagadakai/MediMate)**  
-AI-powered healthcare platform with multilingual chatbot, report summarizer, and secure messaging.
+Flask-based AI platform with secure chat, multilingual TTS, and medical report summarization (BART/T5).
 
 🔹 **[AICTE Points and Certificates Manager (CertifyTrack)](https://github.com/PranavKadagadakai/CertifyTrack)**  
-Certificate automation and point tracking portal for students, mentors, and clubs.
+Django-based system for managing student activities, roles, and automated certificate generation.
 
 🔹 **[Inventory Management System](https://github.com/PranavKadagadakai/Inventory_Management_System)**  
-Python-based CLI inventory tool using SQLite for managing stock and categories.
+Python desktop app with SQLite backend to track and manage small business inventory.
 
 🔹 **[English to Hindi Translator](https://github.com/PranavKadagadakai/Eng2Hindi)**  
-Real-time NLP-based translator with a simple Django web interface.
+Django app for NLP-based live translation with a clean UI and language toggling.
+
+---
+
+### 📜 Certifications
+
+- 🐧 **Linux Essentials** – Cisco NDG
+- 🧮 **SQL and Relational Databases** – IBM Cognitive Class
+- 🧠 **SQL Fundamentals** – Simplilearn
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:pkadagadakai+GitProfile@proton.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:pkadagadakai@proton.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/pranav-kadagadakai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/PranavKadagadakai"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
