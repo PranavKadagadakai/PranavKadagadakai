@@ -1,10 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Pranav</h1>
 <h3 align="center">🚀 ISE Undergrad | 🧠 AI/ML & Cybersecurity Explorer | 💻 Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Building+secure+and+scalable+solutions.;💡 Exploring+AI%2FML%2C+Cybersecurity%2C+Automation.;Always+learning+and+leading.">
-</p>
-
 ---
 
 ### 🧠 About Me
